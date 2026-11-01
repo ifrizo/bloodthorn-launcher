@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0
 files:
-  - url: Bloodthorn Launcher Setup 1.0.1.exe
+  - url: Bloodthorn_Launcher_Setup.exe
     sha512: 02df200e14582fccfdb9d8040d5fd5d1020555220a74c89807e2d17933ac4f25b8c4d05431320d6d17b84a456d15af0b5bb675eeaf8779f8a93aa3458381f406
     size: 89295639
-path: Bloodthorn Launcher Setup 1.0.1.exe
+path: Bloodthorn_Launcher_Setup.exe
 sha512: 02df200e14582fccfdb9d8040d5fd5d1020555220a74c89807e2d17933ac4f25b8c4d05431320d6d17b84a456d15af0b5bb675eeaf8779f8a93aa3458381f406
 releaseDate: '2026-11-01T11:16:18+03:00'
